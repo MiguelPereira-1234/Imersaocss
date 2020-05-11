@@ -1,10 +1,10 @@
 body {
-	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fossil_Ridge.jpg/1200px-Fossil_Ridge.jpg");
+	background-image: url("https://i.pinimg.com/originals/b4/bf/fd/b4bffd4008803a321411fc7ada27be05.jpg") ;
 	font-family: Arial;
-	
+	background-image: 2312px 1208px;
 		}
 a{
-	color: white;
+	color: darkblue;
 	text-decoration:none;
 }
 a:hover {
@@ -19,10 +19,10 @@ a:hover {
 }
 .site-title{
 	text-align: center;
-	color: darkblue;
+	color: red;
 }
 .site-subtitle{
 	text-align: center;
 	font-style:italic;
-	color: blue;
+	color: brown;
 }
